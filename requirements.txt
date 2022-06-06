@@ -6,8 +6,11 @@ wheel>=0.29
 
 # data science
 numpy
-pandas
 scikit-learn
+tensorflow
+keras
+tqdm
+
 
 # tests/linter
 black
