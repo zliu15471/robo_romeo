@@ -126,3 +126,4 @@ dmypy.json
 
 # files
 raw_data/
+extracted_features/
