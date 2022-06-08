@@ -10,7 +10,7 @@ openai.api_key = os.getenv('OPENAI_KEY')
 #caption only hardcoded until we have output from models
 caption = "man reading book on the dock near post"
 
-def gpt3(prompt=f"write a love poem about a {caption}:", engine='text-davinci-002',
+def gpt3(prompt=f"write a love poem about {caption}:", engine='text-davinci-002',
          temperature=0.7,top_p=1, max_tokens=256,
         frequency_penalty=0, presence_penalty=0):
     response = openai.Completion.create(engine=engine,
