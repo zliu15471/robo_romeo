@@ -16,6 +16,7 @@ class GeneratorPipeline(tf.keras.utils.Sequence):
 
         # data = pd.DataFrame(({'X1': X1, 'X2': X2, 'y': y}, columns=['X1', 'X2', 'y]))
         pass
+        pass
 
 
     def save_encoded_images(self):
