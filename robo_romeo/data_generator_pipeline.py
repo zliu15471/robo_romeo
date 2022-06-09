@@ -14,20 +14,29 @@ class GeneratorPipeline(tf.keras.utils.Sequence):
     def prepare_training_data(self):
 
 
-        # data = pd.DataFrame(({'X1': X1, 'X2': X2, 'y': y}, columns=['X1', 'X2', 'y]))
+        # data = pd.DataFrame(({'X1': X1, 'X2': X2, 'y': y}, columns=['X1', 'X2', 'y]))?
         pass
 
 
     def save_encoded_images(self):
+        # split sequences
+        # encode images and save
+        # create column for encoded image path
         pass
 
-    def __getitem__(self,idx):
+    def save_caption_sequence(self):
+        pass
+
+    def save_predict_sequence(self):
+        pass
+
+    def __getitem__(self,index):
 
         self.load_image("../raw_data/Flickr8k_text/.......")
 
-        X1 = self.X1[idx * self.batch_size:(idx + 1) * self.batch_size]
-        X2 = self.X2[idx * self.batch_size:(idx + 1) * self.batch_size]
-        y = self.y[idx * self.batch_size:(idx + 1) * self.batch_size]
+        X1 = self.X1[index * self.batch_size:(index + 1) * self.batch_size]
+        X2 = self.X2[index * self.batch_size:(index + 1) * self.batch_size]
+        y = self.y[index * self.batch_size:(index + 1) * self.batch_size]
 
         return [X1,X2], y
 
