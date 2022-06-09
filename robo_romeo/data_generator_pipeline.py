@@ -4,7 +4,7 @@ import pandas as pd
 
 class GeneratorPipeline(tf.keras.utils.Sequence):
 
-    def __init__(self, X1, X2, y, batch_size,shuffle=True):
+    def __init__(self, X1, X2, y, batch_size,shuffle=False):
         self.X1 = X1
         self.X2 = X2
         self.y = y
