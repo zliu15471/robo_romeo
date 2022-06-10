@@ -8,7 +8,7 @@ load_dotenv(env_path)
 openai.api_key = os.getenv('OPENAI_KEY')
 
 #caption only hardcoded until we have output from models
-caption = "a little girl in a red shirt and a skirt shirt is sitting on a park"
+caption = "a man is walking through the beach"
 
 # def gpt3(prompt=f"write a love poem about {caption}:", engine='text-davinci-002',
 #          temperature=0.7,top_p=1, max_tokens=256,
