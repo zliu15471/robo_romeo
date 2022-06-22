@@ -5,7 +5,7 @@
 - Established the LSTM model and trained it using Google Cloud Platform (GCP) Vertex AI to predict the next word of sequences and output whole sentences. 
 - Built up the scoring function which using doc2vec to transfer sentences into vectors and calculate the cosine similarities to evaluate the performance of image captioning. 
 - Imported open API called GPT-3 to output the beautiful poetry according to information gathered from images. 
-- Developed a website using Streamlit to present the both poetry and robot voices. 
+- Developed a website using Streamlit to present both poetry and robot voices. 
 
 
 
@@ -53,8 +53,10 @@ Examples of captions generated
 
 # Performance metrics
 
-Which scoring was used
+Doc2vec for transfering sentences to vectors
 
+Cosine similarities as scores
+ 
 Results obtained with various models / paramaters
 
 # Final product
