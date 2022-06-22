@@ -44,8 +44,7 @@ ImageNet - image database designed for use in computer vision research
 
 # Output predictions
 
-<img width="632" alt="Screenshot 2022-06-10 at 10 24 12" src="https://user-images.githubusercontent.com/103648207/175075654-b27310db-969d-420c-a264-275470edb8f2.png">
-
+<img width="743" alt="Screenshot 2022-06-22 at 16 50 16" src="https://user-images.githubusercontent.com/103648207/175076032-d6483be1-cd86-45a7-9b9c-51cb41dd5ab7.png">
 
 
 # Performance metrics
