@@ -57,15 +57,10 @@ ImageNet - image database designed for use in computer vision research
 
 # Final product
 
-- Link to Streamlit
+- Link to Streamlit : [https://awesome-github-readme-profile.netlify.app](https://share.streamlit.io/cmaxk/robo_romeo_streamlit/app.py)
 - Link to Streamlit GitHub
 - Link to demo presentation slides : (https://docs.google.com/presentation/d/19MzJlfLe1qM_8c3-CEjDwYxT5BYAXQVz09pqFLd45gA/edit#slide=id.g134fb78e839_0_201)
 
-
-
-# Website
-
-Link : [https://awesome-github-readme-profile.netlify.app](https://share.streamlit.io/cmaxk/robo_romeo_streamlit/app.py)
 
 
 # Our Robo-Romeo's Output
