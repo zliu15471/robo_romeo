@@ -5,7 +5,7 @@
 
 
 
-# Introduction - can AI be creative?
+#  Project Description - can AI be creative?
 
 
 - Applied Object-Oriented Programming (OOP) to design the batch for training dataset.
