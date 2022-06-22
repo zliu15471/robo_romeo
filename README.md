@@ -48,6 +48,6 @@ Results obtained with various models / paramaters
 
 # Final product
 
-Link to Streamlit
-Link to Streamlit GitHub
-Link to demo presentation slides
+- Link to Streamlit
+- Link to Streamlit GitHub
+- Link to demo presentation slides
