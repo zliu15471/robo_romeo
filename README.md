@@ -55,9 +55,9 @@ Examples of captions generated
 
 # Performance metrics
 
-Doc2vec for transfering sentences to vectors
+- Doc2vec for transfering sentences to vectors
 
-Cosine similarities as scores
+- Cosine similarities as scores
  
 <img width="376" alt="Screenshot 2022-06-22 at 16 13 51" src="https://user-images.githubusercontent.com/103648207/175067109-e4a1c8e4-5a75-4bc5-835b-785c377e1e57.png">
 
