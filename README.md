@@ -59,7 +59,7 @@ ImageNet - image database designed for use in computer vision research
 
 - Link to Streamlit
 - Link to Streamlit GitHub
-- Link to demo presentation slides
+- Link to demo presentation slides : (https://docs.google.com/presentation/d/19MzJlfLe1qM_8c3-CEjDwYxT5BYAXQVz09pqFLd45gA/edit#slide=id.g134fb78e839_0_201)
 
 
 
