@@ -36,7 +36,7 @@ Tasks split in 2 parts:
 
 - LSTM
 
-# Poetry generation using GP3
+# Poetry generation using GPT-3
 
 # Bonus - Attention layer
 
