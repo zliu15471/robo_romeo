@@ -38,9 +38,9 @@ Some words on this special attention layer that we added
 
 # Datasets used
 
-Some words on data sets used
 <img width="177" alt="Screenshot 2022-06-22 at 16 44 04" src="https://user-images.githubusercontent.com/103648207/175074550-c72df250-b26a-4974-81af-759467e95958.png">
 
+ImageNet - image database designed for use in computer vision research
 
 # Output predictions
 
