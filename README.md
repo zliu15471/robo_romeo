@@ -18,9 +18,9 @@ Some intro words on problem, solution, techniques
 # Solution structure
 
 Neural networks used:
-- CNN
-- LSTM
-- GTP3
+- CNN (EfficientNetB0) : Image encoding
+- LSTM : Word embedding and sequencing
+- GTP3 : Output poetry
 
 Training on over 118k images and cpations
 
@@ -28,15 +28,6 @@ Tasks split in 2 parts:
 - look through image and generate caption
 - turn caption into poetry
 
-# Image encoding using CNN (EfficientNetB0)
-
-- image encoding
-
-# Word embedding and sequencing using LSTM
-
-- LSTM
-
-# Poetry generation using GPT-3
 
 # Bonus - Attention layer
 
