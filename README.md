@@ -1,5 +1,7 @@
 # Robo-Romeo
 
+![image](https://user-images.githubusercontent.com/103648207/175067813-01692494-a157-495d-878a-24c2fe23c356.png)
+
 - Applied Object-Oriented Programming (OOP) to design the batch for training dataset.
 - Utilised CNN model (EfficientNetB0) to encode images into vectors and added embedded layer to tokenize the captions corresponding with images.
 - Established the LSTM model and trained it using Google Cloud Platform (GCP) Vertex AI to predict the next word of sequences and output whole sentences. 
