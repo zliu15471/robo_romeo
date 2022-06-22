@@ -44,7 +44,9 @@ ImageNet - image database designed for use in computer vision research
 
 # Output predictions
 
-Examples of captions generated
+<img width="632" alt="Screenshot 2022-06-10 at 10 24 12" src="https://user-images.githubusercontent.com/103648207/175075654-b27310db-969d-420c-a264-275470edb8f2.png">
+
+
 
 # Performance metrics
 
