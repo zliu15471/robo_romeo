@@ -1,3 +1,14 @@
+# Robo-Romeo
+
+- Applied Object-Oriented Programming (OOP) to design the batch for training dataset.
+- Utilised CNN model (EfficientNetB0) to encode images into vectors and added embedded layer to tokenize the captions corresponding with images.
+- Established the LSTM model and trained it using Google Cloud Platform (GCP) Vertex AI to predict the next word of sequences and output whole sentences. 
+- Built up the scoring function which using doc2vec to transfer sentences into vectors and calculate the cosine similarities to evaluate the performance of image captioning. 
+- Imported open API called GPT-3 to output the beautiful poetry according to information gathered from images. 
+- Developed a website using Streamlit to present the both poetry and robot voices. 
+
+
+
 # Introduction - can AI be creative?
 
 Some intro words on problem, solution, techniques
