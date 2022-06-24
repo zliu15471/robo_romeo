@@ -6,7 +6,7 @@
 
 Project exploring the creative abilities of AI: generating captions from images and turning the captions into romantic poetry.
 
-## Solution structure
+### Solution structure
 
 - Utilised CNN model (EfficientNetB0) to encode images into vectors and added embedding layer to tokenize the captions corresponding with images.
 - Established the LSTM model and trained it using Google Cloud Platform (GCP) Vertex AI to predict the next word of sequences and output whole sentences.
